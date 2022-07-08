@@ -1,2 +1,2 @@
 # Python_Hacking
-> Actividade de curso Python Hacking de Udemy
+> Actividades de curso Python Hacking de Udemy
